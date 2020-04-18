@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/4e86c3e273a1239dc4e045a7920a33ff/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/ef4cad2f507984dfd14e438697535b2d/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/c71a8b81913c9887bb053d8533386d3f/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/db6f3ebbd3cafa10c1ca4bcbfe61e154/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/d896b54e978ae85186b1759589f68630/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/05648bf76d0c4ee768d3da60e3021f6b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/df6285f6f5c192b1bfc073a23f658eb4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/1b4e8c52c1304d0816c3719c8ce4480c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/e7d09faa411a7e12ceb7079a96b7d3e0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/2b93a7857fc489a9df82da45fd590d53/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/15db1938959ed22f0ca622afcf2f14cd/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/4ff35e3500007c5d3cde82580bb959d4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/85aabbdeb772b91d81707641ca686f1a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/5473829ce9845491130713e499b2de8f/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/888fd36fa8fd80cdb02a3959376f0af1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/dcd3d94d78297351a843c6ab55f97962/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/4c5b820ffa378981ba68ff4604cb6610/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/09529d415a2fd8d2103f1f89d32830d3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/acc869ef826eae5417d347f6293c8bae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/2fd4834a2af06615f950af5bf4f7731b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/4b2660f36cb18aad5dec857c095cac22/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/86f2f634f013f853cf886e5ae6a48e2d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:3:11-47
+		INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/c71a8b81913c9887bb053d8533386d3f/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/c71a8b81913c9887bb053d8533386d3f/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/5473829ce9845491130713e499b2de8f/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/5473829ce9845491130713e499b2de8f/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/888fd36fa8fd80cdb02a3959376f0af1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/888fd36fa8fd80cdb02a3959376f0af1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/5473829ce9845491130713e499b2de8f/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.example.test_retrofit1.MainActivity
+ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml
+INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/4e86c3e273a1239dc4e045a7920a33ff/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/4e86c3e273a1239dc4e045a7920a33ff/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/ef4cad2f507984dfd14e438697535b2d/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/ef4cad2f507984dfd14e438697535b2d/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/c71a8b81913c9887bb053d8533386d3f/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/c71a8b81913c9887bb053d8533386d3f/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/db6f3ebbd3cafa10c1ca4bcbfe61e154/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/db6f3ebbd3cafa10c1ca4bcbfe61e154/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/d896b54e978ae85186b1759589f68630/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/d896b54e978ae85186b1759589f68630/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/05648bf76d0c4ee768d3da60e3021f6b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/05648bf76d0c4ee768d3da60e3021f6b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/df6285f6f5c192b1bfc073a23f658eb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/df6285f6f5c192b1bfc073a23f658eb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/1b4e8c52c1304d0816c3719c8ce4480c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/1b4e8c52c1304d0816c3719c8ce4480c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/e7d09faa411a7e12ceb7079a96b7d3e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/e7d09faa411a7e12ceb7079a96b7d3e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/2b93a7857fc489a9df82da45fd590d53/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/2b93a7857fc489a9df82da45fd590d53/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/15db1938959ed22f0ca622afcf2f14cd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/15db1938959ed22f0ca622afcf2f14cd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/4ff35e3500007c5d3cde82580bb959d4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/4ff35e3500007c5d3cde82580bb959d4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/85aabbdeb772b91d81707641ca686f1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/85aabbdeb772b91d81707641ca686f1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/5473829ce9845491130713e499b2de8f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/5473829ce9845491130713e499b2de8f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/888fd36fa8fd80cdb02a3959376f0af1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/888fd36fa8fd80cdb02a3959376f0af1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/dcd3d94d78297351a843c6ab55f97962/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/dcd3d94d78297351a843c6ab55f97962/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/4c5b820ffa378981ba68ff4604cb6610/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/4c5b820ffa378981ba68ff4604cb6610/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/09529d415a2fd8d2103f1f89d32830d3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/09529d415a2fd8d2103f1f89d32830d3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/acc869ef826eae5417d347f6293c8bae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/acc869ef826eae5417d347f6293c8bae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/2fd4834a2af06615f950af5bf4f7731b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/2fd4834a2af06615f950af5bf4f7731b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/4b2660f36cb18aad5dec857c095cac22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/4b2660f36cb18aad5dec857c095cac22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/86f2f634f013f853cf886e5ae6a48e2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/techlivz/.gradle/caches/transforms-2/files-2.1/86f2f634f013f853cf886e5ae6a48e2d/AndroidManifest.xml:20:5-44
+INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml
+INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/src/main/AndroidManifest.xml

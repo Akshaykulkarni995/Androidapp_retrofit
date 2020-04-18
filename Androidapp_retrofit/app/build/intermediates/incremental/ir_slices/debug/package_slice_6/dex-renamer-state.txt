@@ -1,0 +1,4 @@
+#Sat Apr 18 22:44:42 IST 2020
+base.0=/Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
