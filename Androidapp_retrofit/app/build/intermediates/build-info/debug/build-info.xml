@@ -5,9 +5,8 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
-    ir-eligibility="CLASS_ANNOTATION_CHANGE"
     plugin-version="3.4.1"
-    timestamp="1587283232789"
+    timestamp="1587300581422"
     token="-1173178799058917456"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -19,18 +18,14 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="101" />
+        duration="0" />
     <task
         name="verifier"
-        duration="104" />
-
-    <artifact
-        location="/Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
+        duration="0" />
 
     <build
         build-mode="FULL"
-        timestamp="1587283099991"
+        timestamp="1587300138812"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
@@ -74,12 +69,16 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="CLASS_ANNOTATION_CHANGE"
-        timestamp="1587283232789"
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1587300532219"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/techlivz/Documents/Androidapp_retrofit/Androidapp_retrofit/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
     </build>
+    <build
+        build-mode="COLD"
+        timestamp="1587300581422"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
